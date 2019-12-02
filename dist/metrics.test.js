@@ -25,4 +25,12 @@ describe('Metrics', function () {
             });
         });
     });
+    //implémenter la fonction delete
+    //à continuer 
+    // describe('#save', function(){
+    //   it('should save data', function(){
+    //       dbMet.save("0",[new Metric("1234567891234","21")],function(err: Error | null, result?: any))
+    //     }
+    //   })
+    // })
 });
